@@ -7,3 +7,4 @@ bakalım olacakmı
 
 ahmansdhadzmxc
 geri bildirim sayfada yazdım
+sayfada yazdım 2
