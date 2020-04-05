@@ -2,3 +2,6 @@
 
 ahmet cans avas
 bakalım olacakmı
+
+
+geri bildirim sayfada yazdım
